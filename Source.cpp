@@ -1,4 +1,4 @@
-#include <iostream>
+
 //Declare an array of integers with 50 elements.
 
 //Fill with random numbers in the range from -1000 to 1000.
@@ -8,8 +8,8 @@
 //Output the elements between them.
 
 
-
-#include <ctime>
+#include<iostream>
+#include<ctime>
 #include<random>
 void Rand(int arr[], int size)
 {
